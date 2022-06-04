@@ -60,7 +60,6 @@ section{
     background-image: url(../images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    height: 350px;
 }
 
 .single-experience{
@@ -72,11 +71,13 @@ section{
     border-left: 3px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
     border-image-slice: 1;
+    background-color: #fff;
 }
 #half-stack{
     border-left: 3px solid;
     border-image: linear-gradient(180deg, lightBlue, Blue);
     border-image-slice: 1;
+    
 }
 
 footer{
