@@ -1,0 +1,23 @@
+body{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Roboto', sans-serif;
+    font-family: 'Sacramento', cursive; */
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: #FFD700;
+}
+
+.half-width{
+    width: 40%;
+    margin: 4%;
+    padding: 1%;
+    float: left;
+}
+
+.half-width img{
+    max-width: 100%;
+}
